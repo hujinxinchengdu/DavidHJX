@@ -14,12 +14,12 @@
     - 🚀 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCA-QvXjVctTX4QpJsIS7NFw?label=Comprehend%20investing%20direction%20%E6%8A%95%E8%B5%84%E7%82%B9%E7%82%B9%E4%BA%8B&style=social)
 </a>
 
-- 🔭 Hobby: Photography, Astronomy, and Cycling
+- 🔭 Hobby: Photography, Astronomy, and Swimming
 - 😄 Pronouns: He/Him
 
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-hujinxin0607@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=hujinxin0607@gmail.com)](hujinxin0607@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hujinxin0607@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=hujinxin0607@gmail.com)](mailto:hujinxin0607@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JinxinHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinxin-hu-02549493/)](https://www.linkedin.com/in/jinxin-hu-02549493/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/hujinxinchengdu)](https://github.com/hujinxinchengdu)
 
@@ -33,6 +33,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
 
 
 
@@ -44,6 +46,8 @@
     <br />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujinxinchengdu&theme=cobalt&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
+
+
 
 
 [LeetCode]: https://leetcode.com/
