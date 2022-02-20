@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinxin-hu-02549493/)
 
-## **Welcome to my page** &nbsp;![Visitors](https://visitor-badge.glitch.me/badge?page_id=hujinxinchengdu&left_color=grey&right_color=blue) &nbsp; 
+## **Welcome to my page**
 - I'm a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 
 ### 🧭 **More about Me**:
