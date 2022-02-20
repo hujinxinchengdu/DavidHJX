@@ -10,7 +10,7 @@
 - 🌱 Currently learning:
     - 🧮 Algorithms on [LeetCode]
     - 🔌 Java SpringBoot with a full-stack project
-    - 💡 Big Data (Hadoop, HIVE, Spark, scala...
+    - 💡 Big Data (Hadoop, HIVE, Spark, scala, ETL...)
     - 💾 Linux Operating System as well as Tmux and Vim
     - 📈 US Stocks, cryptocurrency miner and Cryptocurrency trading
     - 🚀 Youtuber [Comprehend investing direction 投资点点事][youtube]
