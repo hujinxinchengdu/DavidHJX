@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Hu</h1>
-<h3 align="center">I'm a Master of Science in Computer Science student at Northeastern University(SV)</h3>
+<h3 align="center">A highly skilled software engineer with a strong background in financial analysis tools, data pipelines, and application development. Expert in using NLP techniques and large language models to improve business processes. Proven ability to architect and deploy robust solutions, enhancing efficiency and decision-making. Passionate about leveraging technical skills to solve complex problems and improve customer experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hujinxinchengdu&label=Profile%20views&color=0e75b6&style=flat" alt="hujinxinchengdu" /> </p>
 
-- 🔭 I’m currently working on [Personal Knowledge Base System](https://github.com/hujinxinchengdu/Personal-Information-Center)
-
-- 🌱 I’m currently learning **Spring Boot, Maven, React.js, Hadoop, HIVE**
+- 🔭 I’m currently leding the design and implementation of a breakthrough financial analysis tool using advanced NLP techniques and large language models. This revolutionary tool enhanced decision-making efficiency by 35% for investors, leading to significant increases in investment success rates.
 
 - 📫 How to reach me **hujinxin0607@gmail.com**
 
@@ -124,6 +122,6 @@
 ## Follow Me
 
 [![Gmail Badge](https://img.shields.io/badge/-hujinxin0607@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=hujinxin0607@gmail.com)](mailto:hujinxin0607@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-JinxinHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinxin-hu-02549493/)](https://www.linkedin.com/in/jinxin-hu-02549493/)
+[![Linkedin Badge](https://img.shields.io/badge/-JinxinHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinxin-hu-02549493/)](https://www.linkedin.com/in/jinxin-hu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/hujinxinchengdu)](https://github.com/hujinxinchengdu)
 
