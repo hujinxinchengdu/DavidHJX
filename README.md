@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently leding the design and implementation of a breakthrough financial analysis tool using advanced NLP techniques and large language models. This revolutionary tool enhanced decision-making efficiency by 35% for investors, leading to significant increases in investment success rates.
 
-- 📫 How to reach me **hujinxin0607@gmail.com**
+- 📫 How to reach me **jinxin.career@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
